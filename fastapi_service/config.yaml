@@ -1,0 +1,9 @@
+name: "FastAPI Service"
+version: "1.0"
+slug: "fastapi_service"
+description: "Expose MariaDB data via FastAPI"
+startup: services
+boot: auto
+host_network: true
+options: {}
+schema: {}
